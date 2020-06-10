@@ -1,0 +1,71 @@
+# jemdoc: nofooter
+# jemdoc: addcss{example.css}
+~~~
+{}{img_left}{./photo.png}{Shuting Li}{150px}{200px}{}
+= Shuting Li
+
+
+*Postgraduate*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Date of birth: Aug. 17th, 1994
+
+Department of Electrical Engineering~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Phone: +86 15708455198
+
+Southwest Jiaotong University,Chengdu,China~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Email: shuting_li_ee@hotmail.com
+
+~~~
+
+== RESEARCH INTERESTS
+Grid integration of renewable energy, control design for power electronic converters, converter topologies, conversion of electrical power.
+	
+== EDUCATION
+Sep. 2016 - Jun. 2019~~~~~~~~~Southwest Jiaotong University, China~~~~~~~~~Electrical Engineering (Master);
+
+Sep. 2012 - Jun. 2016~~~~~~~~~Southwest Jiaotong University, China~~~~~~~~~Electronic Information Engineering (Bachelor).
+ 	
+== PUBLICATION
+- *Research On Sychronverter-based Regenerative Braking Energy Feedback System of Urban rail Trains, Shuting Li*, Songrong Wu, Ping Yang, Shengzhong He, The 14th IEEE Industrial Electronics and Applications Conference, 2019.
+
+- *Research On the Pre-synchronization Control of Grid-connected Three-phase Inverters Based On the Characteristics*, Shiqiang Xiang, *Shuting Li*, Songrong Wu, Zizhan Li, The 15th IEEE Industrial Electronics and Applications Conference, 2020.
+
+- *Research on the Improved YOLO V3 Orbital Locus Detection Technology*(Chinese), Yingjie Zheng, *Shuting Li*, Songrong Wu, Dong Liu, Ruoyu Wei, Computer Applications and Software, 2020.
+
+- *Research on the Improved YOLO V3 Orbital Locus Detection Technology*(Chinese), Ruoyu Wei, *Shuting Li*, Songrong Wu, Dong Liu, Yingjie Zheng, Railway Standard Design, 2020.
+
+- *Track Fastener Defect Detection Based on Improved YOLO V3*, Yabo Zhang, Songrong Wu, Ping Yang, Shiqiang Xiang, *Shuting Li*, Shengzhong He, The 14th IEEE Industrial Electronics and Applications Conference, 2019.
+	
+== RESEARCH PROJECTS
+- *Smart Microgrid Based on Virtual Synchronous Generator Technology*~~~~~~~~~~~~~~~~Principal investigator, Aug. 2017 - Mar. 2019
+-- Designed a megawatt-class regenerative braking energy feedback system of urban rail trains, based on the virtual synchronous generator (VSG) technology;
+-- Improved the control strategy of the VSG system, realized the automatic regulation of the grid energy as well as the DC-bus voltage, and gave a report at the IEEE conference;
+-- Further equipped the system with an energy storage module at the DC side, controlled by the cascaded control method with an outer voltage loop and an inner current loop, further guaranteed the stability of the DC-bus voltage and improved the fault ride-through capability of the system; 
+-- Wrote DSP control programs of the VSG, set up the prototype of the VSG, and verified the theoretical analysis.
+- *Research of Gallium Arsenide Solar Cell*~~~~~~~~~~~~~~~~Co-investigator, Mar. 2017 - Jun. 2017
+-- Studied the principle and mathematical model of gallium arsenide (GaAs) solar cell;
+-- Taking multijunction GaAs solar cell as an example, build the solar cell module, tested the photoelectric conversion of GaAs solar cell and compared it with that of conventional silicon solar cell.
+- *Research of Control Methods of DC-DC Converters*~~~~~~~~~~~~~~~~Sep. 2016 - Nov. 2016
+-- Respectively tested the steady and transient performances of COT control, CFT control, valley V2 control and valley V2C control; 
+-- Designed a buck converter based on VMBF control, improved the transient response performance of the converter.
+- *Automatic Tracking and Obstacle Avoidance Car*~~~~~~~~~~~~~~~~Co-investigator, Jan. 2013 - Oct. 2014
+-- Installed photoelectric detectors on a toy car, used infrared detection method to collect driving data;
+-- Wrote SCM programs to achieve automatic route correction and obstacle avoidance of the car, increased the success rate of tracking to 100\%, and the success rate of obstacle avoidance to 80\%.
+ 
+== MAJOR AWARDS
+- The Outstanding Graduates award, Southwest Jiaotong University, 2016;
+
+- The 5th "Star of EE" Prize (The highest honor of students in Electrical Engineering Department), Department of Electrical Engineering, Southwest Jiaotong University, 2016;
+
+- One first-class scholarship, two second-class scholarships, several third-class scholarships, 2012 - 2019.
+
+== SKILLS
+- *Professional skills*
+-- Proficient: MATLAB, PSIM, DSP;
+-- Familiar: FPGA, Python.
+
+- *Additional skills*
+-- Excellent oral presentation skill and writting skill;
+-- Excellent self-learning ability, good operational ability; 
+-- Good ability of using English (TOEFL 97\/R28\/L27\/S20\/W22).
+
+== EXTRACURRICULAR ACTIVITIES
+Sep. 2014 - Jun. 2015~~~~~~~~~Organized one academic and three cultural activities as the vice president of the school student union;
+
+Sep. 2013 - Jun. 2014~~~~~~~~~Formed the school dance team and led the team to win the first prize of the national dance competition.
